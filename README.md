@@ -200,7 +200,7 @@ These rules are IDE-agnostic as long as the IDE supports an agentic assistant or
 
 ### Other Agentic-Enabled IDEs
 
-* **Atom, Sublime Text, Emacs** (with community LLM/agent plugins):
+* **Cursor, Windsurf, Augment, Tessl** (with community LLM/agent plugins):
 
   1. Configure your plugin’s “prompt library path” to `/agentic-rules/docs/`.
   2. Provide MCP endpoint in plugin settings.
